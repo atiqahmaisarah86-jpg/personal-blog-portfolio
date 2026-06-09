@@ -47,7 +47,7 @@ Institution: Universiti Sultan Zainal Abidin (UniSZA), Besut Campus
 https://github.com/atiqahmaisarah86-jpg/personal-blog-portfolio
 
 ## Live Demo (GitHub Pages)
-(Add your link here after enabling GitHub Pages)
+https://atiqahmaisarah86-jpg.github.io/personal-blog-portfolio/
 
 ## Learning Outcome
 This project demonstrates my ability to:
